@@ -28,4 +28,4 @@ st.info("Use the sidebar to navigate through different sections of the app.")
 
 # Footer
 st.markdown("---")
-st.markdown("👩‍💻 Created with ❤️ by Shruti Parmar")
+st.markdown("© 2025 Shruti Parmar · All rights reserved.")
