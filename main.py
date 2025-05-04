@@ -20,4 +20,9 @@ st.markdown("Track your investments in real-time with a professional dashboard, 
 
 st.image("https://cdn.dribbble.com/users/2287419/screenshots/15413328/media/a9669a616e20bb52a58aab3bb534d2c3.gif" , width=300)
 
+
+# Footer
+st.markdown("---")
+st.markdown("👩‍💻 Created with ❤️ by Shruti Parmar")
+
 st.info("Use the sidebar to navigate through different sections of the app.")
