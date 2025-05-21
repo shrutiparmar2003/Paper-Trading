@@ -1,9 +1,7 @@
 # Virtual Investments💰
-
 Welcome to the Virtual Investments project! This repository is dedicated to providing a comprehensive solution for virtual investment management using Python and various Google technologies.
 
 ## Introduction
-
 Virtual Investments is a Python-based project aimed at simulating and managing virtual investments. It provides tools and functionalities to help users track and analyze their virtual portfolio.
 
 ## Features
@@ -19,8 +17,8 @@ Virtual Investments is a Python-based project aimed at simulating and managing v
 - **Trade simulations:** Simulate trades to understand potential outcomes.
 - **Financial calculators available:** Like SIP, ROI, etc with input parameters(duration , annual returns ,etc).
    **Machine learning predictions:** Get to know the predicted stock prices for learning purposes
+  
 ### Technologies used
-
 - **Python:** The primary programming language used in the project.
 - **Streamlit:** For creating interactive web applications.
 - **pandas:** For data analysis and manipulation.
@@ -29,12 +27,10 @@ Virtual Investments is a Python-based project aimed at simulating and managing v
 
 
 ## Google Technologies Used
-
 - **Google Books API:** For fetching book data related to investments.
 - **Google RSS Feed:** For integrating the latest investment news and updates.
 
 ## Installation
-
 To get started with Virtual Investments, follow these steps:
 
 1. **Clone the repository:**
@@ -94,7 +90,6 @@ To use the Virtual Investments project, follow these steps:
 2. **Follow the on-screen instructions to manage your virtual investments.**
 
 ## Contributing
-
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
