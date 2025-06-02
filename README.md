@@ -1,4 +1,4 @@
-# Virtual Investments💰
+# Virtual Investments
 Welcome to the Virtual Investments project! This repository is dedicated to providing a comprehensive solution for virtual investment management using Python and various Google technologies.
 
 ## Introduction
